@@ -37,4 +37,5 @@ plt.title('Most Popular Languages')
 plt.xlabel('Number of People Who Use')
 
 plt.tight_layout()  # 圖表過度集中可以使用.tight_layout分開
+plt.savefig('plot.png')
 plt.show()

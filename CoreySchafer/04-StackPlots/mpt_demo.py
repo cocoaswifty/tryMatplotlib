@@ -18,4 +18,5 @@ plt.legend(loc=(0.07, 0.05))    # 標籤的位置x 0.07%, y 0.05%
 
 plt.title('Stack Plot')
 plt.tight_layout()  # 圖表過度集中可以使用.tight_layout分開
+plt.savefig('CoreySchafer/04-StackPlots/plot.png')
 plt.show()

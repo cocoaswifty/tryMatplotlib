@@ -23,5 +23,5 @@ plt.xlabel('Ages')
 plt.ylabel('Total Respondents')
 
 plt.tight_layout()
-
+plt.savefig('CoreySchafer/06-Histograms/plot.png')
 plt.show()

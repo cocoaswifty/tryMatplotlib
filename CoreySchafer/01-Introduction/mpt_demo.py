@@ -35,5 +35,5 @@ plt.title('Median Salary by Age')
 plt.legend()    # 顯示標籤
 plt.grid()  # 添加網格
 plt.tight_layout()  # 圖表過度集中可以使用.tight_layout分開
-plt.savefig('plot.png')
+plt.savefig('CoreySchafer/01-Introduction/plot.png')
 plt.show()

@@ -26,5 +26,5 @@ plt.xlabel('Ages')
 plt.ylabel('Median Salary (USD)')
 
 plt.tight_layout()
-
+plt.savefig('CoreySchafer/05-Fill_Betweens/plot.png')
 plt.show()

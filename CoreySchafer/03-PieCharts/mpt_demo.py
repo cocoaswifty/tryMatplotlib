@@ -17,4 +17,5 @@ plt.pie(slices, labels=labels, explode=explode, shadow=True, startangle=90,
 
 plt.title('Pie Chart')
 plt.tight_layout()  # 圖表過度集中可以使用.tight_layout分開
+plt.savefig('CoreySchafer/03-PieCharts/plot.png')
 plt.show()
