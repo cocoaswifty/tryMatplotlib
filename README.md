@@ -12,3 +12,4 @@
     ![06-Histograms](./CoreySchafer/06-Histograms/plot.png "06-Histograms")
     ![07-ScatterPlots](./CoreySchafer/07-ScatterPlots/plot.png "07-ScatterPlots")
     ![08-TimeSeries](./CoreySchafer/08-TimeSeries/plot.png "08-TimeSeries")
+    ![09-LiveData](./CoreySchafer/09-LiveData/plot.png "09-LiveData")
