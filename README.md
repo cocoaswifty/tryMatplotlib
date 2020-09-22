@@ -13,3 +13,7 @@
     ![07-ScatterPlots](./CoreySchafer/07-ScatterPlots/plot.png "07-ScatterPlots")
     ![08-TimeSeries](./CoreySchafer/08-TimeSeries/plot.png "08-TimeSeries")
     ![09-LiveData](./CoreySchafer/09-LiveData/plot.png "09-LiveData")
+    ![10-Subplots](./CoreySchafer/10-Subplots/plot.png "10-Subplots")
+
+- [Matplotlib Tutorials by Mofanpy](https://mofanpy.com/tutorials/data-manipulation/plt/)
+  - [code snippets](./Mofanpy/)
