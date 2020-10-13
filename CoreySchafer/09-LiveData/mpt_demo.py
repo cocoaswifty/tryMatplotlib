@@ -25,7 +25,7 @@ def animate(i):
     y1 = data['total_1']
     y2 = data['total_2']
 
-    plt.cla()   # 清除當前圖形中活動坐標的軸，換句話說，其他軸將保持不變。
+    plt.cla()   # 清除已存在的線條
     plt.plot(x, y1, label='Channel 1')
     plt.plot(x, y2, label='Channel 2')
 
